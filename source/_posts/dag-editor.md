@@ -8,4 +8,6 @@ tags: canvas, 可视化, 前端
 
 话不多说，老规矩，上[**demo**](https://stillbold.com/demos/dag-editor/demos/editor.html)
 
+[项目地址](https://github.com/HustLiuCN/dag-editor)
+
 <!-- more -->

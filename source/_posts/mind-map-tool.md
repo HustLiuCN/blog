@@ -9,6 +9,8 @@ tags: canvas, 可视化, 前端
 
 以之前做的一个[**机器学习平台的架构图为demo**](https://stillbold.com/demos/dag-editor/demos/mind.html)
 
+[项目地址](https://github.com/HustLiuCN/dag-editor)
+
 <!--more-->
 
 大概阐述一下基本思路，相对比较简单
