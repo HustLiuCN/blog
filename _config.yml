@@ -98,4 +98,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: sftp
+  host: 138.163.70.81
+  user: ''
+  pass: ''
+  remotePath: /home/blog/public
