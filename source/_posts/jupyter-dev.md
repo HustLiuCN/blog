@@ -1,7 +1,11 @@
 ---
 title: Jupyter Lab 二次开发
 date: 2020-09-15 14:24:44
-tags: Jupyter, 机器学习, 数据分析, 前端
+tags:
+  - Jupyter
+  - 机器学习
+  - 数据分析
+  - FE
 ---
 
 Jupyter 是目前来说数据分析、机器学习领域首屈一指的开源解决方案，提供交互式开发计算平台，而各家厂商也纷纷将其搭载于自家平台，为用户提供在线的计算、托管平台。诸如**[Google Colab](https://colab.research.google.com/)**，**[阿里云天池](https://tianchi.aliyun.com/)**等等，包括**Netflix**，**百度**，**美团**等大厂也有诸多基于Notebook的解决方案经验提炼总结，贡献到开源社区
